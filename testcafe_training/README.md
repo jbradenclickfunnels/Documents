@@ -36,19 +36,26 @@ This project has discussions and issues enabled, so if you have any questions ab
 ## Setup
 1. Install [Node.js](https://nodejs.org/en/download/)
     1. This will also install [NPM](https://docs.npmjs.com/about-npm)
-2. In order to install all project dependencies:
-
+2. Choose a code editor to use and install it. I've chosen [VS Code](https://code.visualstudio.com/download)
+3. From your code editor's terminal, install Testcafe:
 ```
-npm install
-```
-3. To verify all dependencies have been installed and which versions:
+npm install testcafe
+``` 
+4. To verify all packages have been installed and which versions:
 ```
 node --version
 npm --version
 testcafe --version
 ```
+5. **NOTE:** If your machine already has nodejs and npm, you can [clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your machine and run:
+```
+npm install
+```
+
+Doing so will install/update all of the project dependencies in the package.json file.
+
 ## Launch
-1. To kick off the test folder:
+1. To kick off a test folder:
 ```
 testcafe ./tests/<FOLDER>
 ```
