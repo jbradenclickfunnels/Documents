@@ -31,6 +31,7 @@ This project has discussions and issues enabled, so if you have any questions ab
 * [Official Testcafe Site](https://www.testcafe.io)
 * [Stack Overflow With Testcafe Tag](https://stackoverflow.com/questions/tagged/testcafe)
 * [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+* [Bulldog Job (For README guidance)](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Setup
 1. Install [Node.js](https://nodejs.org/en/download/)
