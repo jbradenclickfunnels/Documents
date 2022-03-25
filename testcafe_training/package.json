@@ -1,0 +1,12 @@
+{
+  "name": "testcafe-training",
+  "version": "1.0.0",
+  "description": "Training project to help others learn the ins and outs of Testcafe",
+  "main": "index.js",
+  "author": "Justin Braden",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.18.4",
+    "uuid": "^8.3.2"
+  }
+}
