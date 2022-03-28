@@ -4,7 +4,7 @@
   "description": "Training project to help others learn the ins and outs of Testcafe",
   "main": "index.js",
   "author": "Justin Braden",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "testcafe": "^1.18.4",
     "uuid": "^8.3.2"
